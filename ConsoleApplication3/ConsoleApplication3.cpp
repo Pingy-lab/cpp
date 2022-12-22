@@ -3,5 +3,6 @@
 int main()
 {
     std::cout << "Hello World!\n";
-    int res = 10;
+    int res = 12;
+    return 0;
 }
